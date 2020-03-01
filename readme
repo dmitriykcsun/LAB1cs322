@@ -1,0 +1,1 @@
+This is a submission for Lab 1 for CS322, Spring 2020, Professor Benson, CSUN. Program shows understanding of forking programs and PID, PPID relations. The program will show PID&PPID values of the program itself and of the fork. There is also an element of tracking time for the program.
