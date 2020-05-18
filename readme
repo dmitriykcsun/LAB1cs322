@@ -1,1 +1,5 @@
+NB: Professor Benson, I was unable to submit lab6 and lab7 to canvas, here are the links to them:
+https://github.com/dmitriykcsun/lab6cs322
+https://github.com/dmitriykcsun/lab7cs322
+
 This is a submission for Lab 1 for CS322, Spring 2020, Professor Benson, CSUN. Program shows understanding of forking programs and PID, PPID relations. The program will show PID&PPID values of the program itself and of the fork. There is also an element of tracking time for the program.
